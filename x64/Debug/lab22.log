@@ -1,0 +1,4 @@
+﻿  lab22.cpp
+F:\aisd\lab2\lab22\lab22\lab22\Heap.hpp(96,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+F:\aisd\lab2\lab22\lab22\lab22\Heap.hpp(97,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  lab22.vcxproj -> F:\aisd\lab2\lab22\lab22\x64\Debug\lab22.exe
